@@ -58,7 +58,7 @@ All work for this class will be project and presentation-based, and there will b
 *Introduction to Big Data, Hello World!*
 
 **Assignment:**
-- read syllabus; complete class survey; "hello world" post on Discord, sign up for codecademy (invite/link for all will be e-mailed)
+- read syllabus; complete class survey; "hello world" post on Discord (invite/link for all will be e-mailed + in Brightspace)
 - **DUE:** Friday Jan. 30th, 11:59pm
 
 ---
@@ -119,7 +119,7 @@ All work for this class will be project and presentation-based, and there will b
 *Spark + Pyspark II*
 
 **For this week:**
-- start the codecademy course + programming notebook assignment
+- start the [codecademy course Big Data with PySpark](https://www.codecademy.com/learn/big-data-pyspark) + programming notebook assignment
 - work on [symposium](https://github.com/mab253/bigdata_spring26/blob/main/symposium.md) topics, bibliography + finding pairs 
 
 **Recommended:**
@@ -134,12 +134,13 @@ All work for this class will be project and presentation-based, and there will b
 
 **For this week:**
 - "[Mother Earth Mother Board](https://efdn.notion.site/Mother-Earth-Mother-Board-WIRED-a8ff97e460bc4ac1b4a7b87f3503a55c)", N. Stephenson, _Wired_ 1996
-- finish the codecademy course + programming final notebook 
+- finish the [codecademy course](https://www.codecademy.com/learn/big-data-pyspark) + programming final notebook 
 - work on [symposium](https://github.com/mab253/bigdata_spring26/blob/main/symposium.md) topics, bibliography + finding pairs 
 
 ---
 
-**🏆 codecademy completed screenshot + notebook assignment DUE by Sunday March 8th, 11:59pm**
+**🏆 codecademy completed screenshot + notebook assignment DUE by Sunday March 8th, 11:59pm** \
+_note you only need to complete the **free** sections of the codecademy course_
 
 ---
 
