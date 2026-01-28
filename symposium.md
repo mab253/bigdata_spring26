@@ -35,6 +35,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Geopolitical Developments Related to Hardware ("chip wars", mining rights, etc.)
 - Quantum Computing + Big Data (see [here](https://hdsr.mitpress.mit.edu/pub/kpn45eyx/release/3))
 - Serverless and FaaS Cloud Computing for Big Dataip wars," resources, etc...)
+- Open Source Culture, Issues + Scale
 - Media Storage at Scale (how does Netflix work? how does Steam work?)
 - Case Study (of a specific research project, tool, etc.)
 - Data Storage on the Blockchain (IPFS, etc.)
