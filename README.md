@@ -69,6 +69,7 @@ All work for this class will be project and presentation-based, and there will b
 *Distributed File Systems*
 
 **Readings due today:**
+- "[How to Read a Paper](https://github.com/mab253/bigdata_spring24/blob/main/readings/how-to-read-a-paper.pdf)", Keshav
 - "[The Google File System](https://github.com/mab253/bigdata_spring24/blob/main/readings/google-file-system.pdf)," Ghemawat et. al (paper)
 - *[Hadoop, The Definitive Guide](https://github.com/mab253/bigdata_spring24/blob/main/readings/OReilly.Hadoop.The.Definitive.Guide.4th.Edition.2015-Ch-1-3.pdf)*, White:
     - Ch. 1, pp. 3-14
