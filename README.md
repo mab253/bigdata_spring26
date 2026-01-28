@@ -132,6 +132,7 @@ All work for this class will be project and presentation-based, and there will b
 *Data in the Cloud*
 
 **For this week:**
+- "[Mother Earth Mother Board](https://efdn.notion.site/Mother-Earth-Mother-Board-WIRED-a8ff97e460bc4ac1b4a7b87f3503a55c)", N. Stephenson, _Wired_ 1996
 - finish the codecademy course + programming final notebook 
 - work on [symposium](https://github.com/mab253/bigdata_spring26/blob/main/symposium.md) topics, bibliography + finding pairs 
 
@@ -167,7 +168,6 @@ All work for this class will be project and presentation-based, and there will b
 
 **Readings due today:**
 - "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
-- "[Mother Earth Mother Board](https://efdn.notion.site/Mother-Earth-Mother-Board-WIRED-a8ff97e460bc4ac1b4a7b87f3503a55c)", N. Stephenson, _Wired_ 1996
 - "[View of a Former Verizon Building](https://vimeo.com/65778055)," Wakeling (video, 19min.)
 - self-directed reading
 
