@@ -33,7 +33,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Environmental Impact of Big Data + Scalable Systems Infrastructure
 - New Developments in Hardware (chips, etc.)
 - Geopolitical Developments Related to Hardware ("chip wars", mining rights, etc.)
-- Quantum Computing + Big Data
+- Quantum Computing + Big Data (see [here](https://hdsr.mitpress.mit.edu/pub/kpn45eyx/release/3))
 - Serverless and FaaS Cloud Computing for Big Dataip wars," resources, etc...)
 - Media Storage at Scale (how does Netflix work? how does Steam work?)
 - Case Study (of a specific research project, tool, etc.)
