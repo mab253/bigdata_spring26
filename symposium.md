@@ -23,7 +23,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Domain-Specific Implementation (science, health, justice, airlines, media)
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
 - New Development in LLMs, NLP, Generative AI
-- Big Data and Supply Chains (robust resource list [here](https://supplystudies.com/syllabus/))
+- Delivering Data and Supply Chains, Logistics (✨ robust resource list [here](https://supplystudies.com/syllabus/))
 - Alternatives - [Permacomputing](https://permacomputing.net/), perhaps?
 - Labor Issues in AI/Data: invisible human labor of training, etc...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
