@@ -25,6 +25,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Security and Big Data
 - New Development in LLMs, NLP, Generative AI
 - Big Data and Supply Chains (robust resource list [here](https://supplystudies.com/syllabus/))
+- Alternatives - [Permacomputing](https://permacomputing.net/), perhaps?
 - Labor Issues in AI/Data: invisible human labor of training, etc...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
 - Big Data + Disaster Response
