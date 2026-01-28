@@ -20,21 +20,22 @@ Your bibliography should include **@ minimum:**
   
 You may choose any topic relevant to this course - I am very flexible here! If you have a wild idea, run it by me! The topic must be deep enough that you can find the amount of sources required for the bibliography, but focused enough that you are not giving only a general overview. You also must include some technical material so that you are engaging with code in some way (and possibly giving a demo during your presentation). Here are a few topics to get you started thinking, but this is by no means an exhaustive list:
 - Streaming and "Real-Time" Data 
-- Domain-Specific Implementation (science, health, justice, airlines, media)
+- Domain-Specific Implementation (science, health, justice, politics, logistics, media)
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
 - New Development in LLMs, NLP, Generative AI (hallucinations? training? safety? parameters? is slop data?! etc. etc.)
 - Delivering Data and Supply Chains, Logistics (✨ robust resource list [here](https://supplystudies.com/syllabus/))
 - Alternatives - [Permacomputing](https://permacomputing.net/), perhaps?
 - Labor Issues in AI/Data: invisible human labor of training, etc...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
-- Big Data + Disaster Response
 - Cybersecurity and Big Data
 - Privacy Concerns: Facial Recognition + Big Data, etc.
-- Environmental Impact of Big Data + Scalable Systems Infrastructure
+- Big Data + Disaster Response
+- Environmental Impact of Big Data + Scalable Systems Infrastructure 
 - New Developments in Hardware (chips, etc.)
 - Geopolitical Developments Related to Hardware ("chip wars", mining rights, etc.)
 - Quantum Computing + Big Data (see [here](https://hdsr.mitpress.mit.edu/pub/kpn45eyx/release/3))
 - Serverless and FaaS Cloud Computing for Big Dataip wars," resources, etc...)
+- Journalism and Digital Forensic Investigations (i.e. [bellingcat](https://www.bellingcat.com/))
 - Open Source Culture, Issues + Scale
 - Media Storage at Scale (how does Netflix work? how does Steam work?)
 - Case Study (of a specific research project, tool, etc.)
