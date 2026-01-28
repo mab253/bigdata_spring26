@@ -22,16 +22,17 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Streaming and "Real-Time" Data 
 - Domain-Specific Implementation (science, health, justice, airlines, media)
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
-- Security and Big Data
 - New Development in LLMs, NLP, Generative AI
 - Big Data and Supply Chains (robust resource list [here](https://supplystudies.com/syllabus/))
 - Alternatives - [Permacomputing](https://permacomputing.net/), perhaps?
 - Labor Issues in AI/Data: invisible human labor of training, etc...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
 - Big Data + Disaster Response
+- Cybersecurity and Big Data
+- Privacy Concerns: Facial Recognition + Big Data, etc.
 - Environmental Impact of Big Data + Scalable Systems Infrastructure
 - New Developments in Hardware (chips, etc.)
-- Geopolitical Developments Related to Hardware ("chip wars", etc.)
+- Geopolitical Developments Related to Hardware ("chip wars", mining rights, etc.)
 - Quantum Computing + Big Data
 - Serverless and FaaS Cloud Computing for Big Dataip wars," resources, etc...)
 - Media Storage at Scale (how does Netflix work? how does Steam work?)
