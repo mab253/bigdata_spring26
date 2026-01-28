@@ -24,6 +24,7 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Big Data for Discovery (check out the book _[The Fourth Paradigm](https://en.wikipedia.org/wiki/The_Fourth_Paradigm)_)
 - Security and Big Data
 - New Development in LLMs, NLP, Generative AI
+- Big Data and Supply Chains (robust resource list [here](https://supplystudies.com/syllabus/))
 - Labor Issues in AI/Data: invisible human labor of training, etc...
 - Social Impact: AI "For Good?," Algorithmic Bias, etc.
 - Big Data + Disaster Response
