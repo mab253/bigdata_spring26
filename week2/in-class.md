@@ -2,6 +2,7 @@
 
 We will divide into groups to solidify our understanding of MapReduce. 
 
+- Write your group number and everyone's name on [this class notes doc](https://cryptpad.fr/doc/#/2/doc/edit/yycvHLFOc2qOub1Z3m4Y+6Qz/)
 - Take a corner of the chalk board for your group.
 - In that area, draw through the processes of MapReduce as a group.
 - Talk it through as you draw, make sure you understand the distinct phases: **Input, Map, Shuffle/Sort, Reduce.** How do you visualize these steps? 
@@ -21,4 +22,4 @@ Check in with each other, and make sure you collectively understand the followin
 9. What does "atomic" mean in terms of MapReduce and data operations?
 10. What makes something _not_ a good candidate for MapReduce?
 
-If your group still has questions, take note of these, and bring them back to the larger group. You are encouraged to bring at least 1 question!
+Where your group still has any questions, take note of these in the notes doc, and bring them back to the larger group. You are encouraged to bring at least 1 question! 
