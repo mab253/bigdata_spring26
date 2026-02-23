@@ -134,12 +134,12 @@ All work for this class will be project and presentation-based, and there will b
 
 **For this week:**
 - "[Mother Earth Mother Board](https://efdn.notion.site/Mother-Earth-Mother-Board-WIRED-a8ff97e460bc4ac1b4a7b87f3503a55c)", N. Stephenson, _Wired_ 1996
-- finish the [codecademy course](https://www.codecademy.com/learn/big-data-pyspark) + programming final notebook 
+- finish the [codecademy course](https://www.codecademy.com/learn/big-data-pyspark) + [programming final notebook](https://github.com/mab253/bigdata_spring26/blob/main/programming.md) 
 - work on [symposium](https://github.com/mab253/bigdata_spring26/blob/main/symposium.md) topics, bibliography + finding pairs 
 
 ---
 
-**🏆 codecademy completed screenshot + notebook assignment DUE by Sunday March 8th, 11:59pm** \
+**🏆 codecademy completed [screenshot + notebook assignment](https://github.com/mab253/bigdata_spring26/blob/main/symposium.md) DUE by Sunday March 8th, 11:59pm** \
 _note you only need to complete the **free** sections of the codecademy course_
 
 ---
