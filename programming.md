@@ -6,7 +6,7 @@
 
 For this assignment, you will use a **Docker container** to run a local instance of Spark and PySpark. You will use that environment to download and analyze segments of the [Common Crawl](https://commoncrawl.org/), a dataset created by a non-profit that programs bots to regularly index massive portions of the web.
 
-🐳 We are using Docker so that everyone can be on the same installation and notebook environment for Spark, even though we all have different machines. [Docker containers](https://www.docker.com/resources/what-container/) package up all we need in terms of dependencies, tools, etc. to run the Spark application. It means we don't have to worry about everyone's unique OS or separate Java installation; it's like a lightweight virtual machine, and environment within your own computer that matches everyone else's who downloads the same "image" (package of specific instructions) from Docker.
+🐳 We are using Docker so that everyone can be on the same installation and notebook environment for Spark, even though we all have different machines. [Docker containers](https://www.docker.com/resources/what-container/) package up all we need in terms of dependencies, tools, etc. to run the Spark application. It means we don't have to worry about everyone's unique OS or separate Java installation; it's like a lightweight virtual machine, an environment within your own computer that matches everyone else's who downloads the same "image" (package of specific instructions) from Docker.
 
 For this assignment, you will need to:
 - download [this `ipynb` notebook](https://github.com/mab253/bigdata_spring26/blob/main/week3%2B4/bigdata-assignment-26-clean-v2.ipynb) that I've created for class, somewhere in your local filesystem so you know where to find it
