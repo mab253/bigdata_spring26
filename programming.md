@@ -9,7 +9,7 @@ For this assignment, you will use a **Docker container** to run a local instance
 🐳 We are using Docker so that everyone can be on the same installation and notebook environment for Spark, even though we all have different machines. [Docker containers](https://www.docker.com/resources/what-container/) package up all we need in terms of dependencies, tools, etc. to run the Spark application. It means we don't have to worry about everyone's unique OS or separate Java installation; it's like a lightweight virtual machine, and environment within your own computer that matches everyone else's who downloads the same "image" (package of specific instructions) from Docker.
 
 For this assignment, you will need to:
-- download [this `ipynb` notebook] that I've created for class, somewhere in your local filesystem so you know where to find it
+- download [this `ipynb` notebook](https://github.com/mab253/bigdata_spring26/blob/main/week3%2B4/bigdata-assignment-26-clean-v2.ipynb) that I've created for class, somewhere in your local filesystem so you know where to find it
 - download (free) Docker desktop - [choose the right download](https://www.docker.com/products/docker-desktop/) for your operating system
 - once you have Docker desktop on your machine, you will need to [open up a **shell** or **terminal** window](https://www.youtube.com/watch?v=m2YKlRaO26A).
 
@@ -32,7 +32,7 @@ Despite what the instructions say here, you only want to copy/paste the last one
 
 Next steps:
 - Next to the blue "+" plus sign, you'll see a little button with an "Up" arrow that says "Upload Files" once you hover over it (shown in red in my screenshot above).
-- Click **Upload Files** button to add the assignment `.ipynb` notebook into the Docker container file system, the one you already downloaded. You should now see it listed on the left.
+- Click **Upload Files** button to add the assignment `bigdata-assignment-26-clean-v2.ipynb` notebook into the Docker container file system, the one you already downloaded. You should now see it listed on the left.
 - Double click on that assignment notebook, and you should see the assignment ready to go! 
 <img width="1227" height="679" alt="Screenshot 2026-02-23 at 16 23 18" src="https://github.com/user-attachments/assets/7900234a-3a70-4e6f-ad0c-d65910d4ccf9" />
 
