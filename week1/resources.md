@@ -12,3 +12,4 @@ on distributed file systems, GFS, HDFS, etc.:
 - [What is Hadoop?](https://www.databricks.com/glossary/hadoop), Databricks documentation
 - [Hadoop Distributed Filesystem](https://www.databricks.com/glossary/hadoop-distributed-file-system-hdfs), another Databricks doc with command line examples for talking to HDFS
 - "Comparative analysis of Google File System and Hadoop Distributed File System", [paper](https://www.warse.org/IJATCSE/static/pdf/file/icetetssp106.pdf) Vijayakumari et. al
+- [Deep Dive on GFS](https://vutr.substack.com/p/i-spent-8-hours-reading-the-paper), Vu Trinh (blog post)
