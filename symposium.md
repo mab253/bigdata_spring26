@@ -26,22 +26,25 @@ You may choose any topic relevant to this course - I am very flexible here! If y
 - Delivering Data and Supply Chains, Logistics (✨ robust resource list [here](https://supplystudies.com/syllabus/))
 - Alternatives - [Permacomputing](https://permacomputing.net/), perhaps?
 - Labor Issues in AI/Data: invisible human labor of training, etc...
-- Social Impact: AI "For Good?," Algorithmic Bias, etc.
-- Cybersecurity and Big Data
+- Challenges in Distributed AI Training
+- Transformers (AI) & Parallelization
+- Social Impact: Big Data or AI "For Good?," Algorithmic Bias, etc.
+- Cybersecurity Methods for Big Data
 - Privacy Concerns: Facial Recognition + Big Data, etc.
 - Big Data + Disaster Response
 - Environmental Impact of Big Data + Scalable Systems Infrastructure 
 - New Developments in Hardware (chips, etc.)
 - Geopolitical Developments Related to Hardware ("chip wars", mining rights, etc.)
 - Quantum Computing + Big Data (see [here](https://hdsr.mitpress.mit.edu/pub/kpn45eyx/release/3))
-- Serverless and FaaS Cloud Computing for Big Dataip wars," resources, etc...)
+- Serverless and FaaS Cloud Computing for Big Data
 - Journalism and Digital Forensic Investigations (i.e. [bellingcat](https://www.bellingcat.com/))
 - Open Source Culture, Issues + Scale
-- Media Storage at Scale (how does Netflix work? how does Steam work?)
-- Case Study (of a specific research project, tool, etc.)
-- Data Storage on the Blockchain (IPFS, etc.)
+- Media Storage at Scale (how does Netflix work? how does Steam work? how does Minecraft or Fortnite function @ scale?)
+- Case Study (of a specific research project, product, tool, etc.)
+- Data Storage on the Blockchain ([IPFS](https://ipfs.tech/), etc.), other Crypto
 - PageRank and Alternative Search Algorithms
 - Platform-Specific (CUDA, AWS, Snowflake, Mesos, MongoDB, Tensorflow, etc.)
+- Forecasting, data-driven developments in weather, other [otherwise](https://forecastingresearch.org/) 
 - Kubernetes, Containerization
 - Internet Archive, crawling
 - Visualization of Big Data
