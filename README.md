@@ -165,8 +165,8 @@ _note you only need to complete the **free** sections of the codecademy course_
 
 *Infrastructure + Materiality*
 
-**DATA CENTER TOUR: TBD** \
-(details to come)
+**DATA CENTER TOUR! 395 Hudson** \
+(see details in Discord, 3:30pm)
 
 **Readings due today:**
 - "[The Cloud is Material: On the Environmental Impacts of Computation and Data Storage](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)," Monserrate
