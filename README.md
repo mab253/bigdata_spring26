@@ -251,7 +251,7 @@ _note you only need to complete the **free** sections of the codecademy course_
 - TO BE CONFIRMED: in-person data center tour, Week 8 ~March 25th
 - symposium: in-person, April 15th & April 22nd
 - final project presentation: in-person, May 13th
-- final project paper/code: due May 16th, 11:59pm
+- final project paper/code: due May 18th, 11:59pm
 
 ## assignments
 
