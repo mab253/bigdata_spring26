@@ -121,7 +121,7 @@ As the final work in this class, you will be responsible for:
 - a combination of the above (shorter paper, but paper + code notebook, for example)
 - have another idea? an art project, a game, a reporting field trip, another form of writing or media? speculative fiction?! propose it! 
 
-You will need to turn in a proposal for your final project (just a brief, informal Discord DM or e-mail telling me what you plan to create) by the end of the day (11:59pm) **Wednesday, Apr 29th.** You will receive brief feedback from me about the scope etc. and approval for the final 👍 The final is due on **May 16th, by 11:59pm.** 
+You will receive brief feedback from me about the scope etc. and approval for the final 👍 The final is due on **May 18th, by 11:59pm.** 
 
 **NOTE**: this final project work should avoid merely **_summary_** - if you are writing a paper, make sure you are adding your own original thoughts, questions, and arguments, do not simply summarize your sources! If you are creating a video, for example, a successful video for this class will not simply be a summary of what you learned about your topic. You will need to dig deeper: what are the unanswered questions about this topic that you have studied? What are potential solutions to big problems in big data? What are applications of the tools we have learned about? Etc. - please no "book reports" - that's what the annotated bibliography is for! If you have questions about this, please let me know when you turn in your proposal.
 
